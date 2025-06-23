@@ -96,15 +96,3 @@ The dataset includes real-world **data science job listings from 2023**, with de
 🔍 **Unique List Generation:** Filters out unwanted strings like `"and"` and commas  
 🔢 **Purpose:** Generates a clean list of unique job schedule types  
 
----
-
-## ❎ Data Validation
-
-🔒 **Enhanced User Input Control:**  
-Used filtered lists as **data validation rules** under **Job Title**, **Country**, and **Type** options in the Data tab.
-
-🎯 Ensures:
-- ✅ User input is restricted to valid options  
-- 🚫 Prevents incorrect or inconsistent entries  
-- 👥 Improves overall usability and interactivity of the dashboard  
-
